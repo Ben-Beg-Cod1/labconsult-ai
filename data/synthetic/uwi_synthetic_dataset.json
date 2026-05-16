@@ -3498,5 +3498,190 @@
     "nhg_diagnose": "geen_uwi",
     "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
     "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-EC-001",
+    "type_valkuil": "asymptomatische_bacteriurie_zonder_klachten",
+    "uitleg_valkuil": "Nitriet positief, maar patiënt heeft GEEN klachten. NHG: niet behandelen. Een simpele rule op nitriet+ zou hier ten onrechte cystitis diagnosticeren.",
+    "patiënt": {
+      "leeftijd": 72,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "licht troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1018,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 15,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "asymptomatische_bacteriurie",
+    "nhg_advies": "Geen behandeling geïndiceerd. Asymptomatische bacteriurie bij niet-zwangere vrouw buiten zwangerschap of pre-operatief niet behandelen.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-EC-002",
+    "type_valkuil": "katheter_bacteriurie_geen_weefselinvasie",
+    "uitleg_valkuil": "Verblijfskatheter: bacteriurie is bijna altijd aanwezig. NHG: alleen behandelen bij tekenen van weefselinvasie (koorts). Rule-based op nitriet/leukotest faalt hier.",
+    "patiënt": {
+      "leeftijd": 81,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": true,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "troebel",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1012,
+      "glucose": "+",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 25,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Patiënt met verblijfskatheter: bacteriurie verwacht, geen tekenen van weefselinvasie. Geen antibiotica. Overweeg katheterverwijdering.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-EC-003",
+    "type_valkuil": "nitriet_negatief_toch_uwi",
+    "uitleg_valkuil": "Nitriet negatief (bijv. Enterococcus of Staphylococcus saprophyticus produceren geen nitriet). Leukotest positief + klachten + dipslide positief = toch cystitis. Rule-based op nitriet alleen mist dit.",
+    "patiënt": {
+      "leeftijd": 22,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "licht troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1020,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 18,
+      "erythrocyten_per_hpf": 4,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitriet negatief sluit UWI niet uit. Leukotest positief + dipslide positief + klachten: cystitis. Nitrofurantoïne 5 dagen.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-EC-004",
+    "type_valkuil": "zwangere_asymptomatische_bacteriurie_behandelen",
+    "uitleg_valkuil": "Asymptomatische bacteriurie bij zwangere vrouw is een uitzondering: WEL behandelen vanwege risico op pyelonefritis en vroeggeboorte. Rule-based zonder zwangerschapscontext geeft fout advies.",
+    "patiënt": {
+      "leeftijd": 28,
+      "geslacht": "vrouw",
+      "zwanger": true,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "helder",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1015,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 12,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "asymptomatische_bacteriurie",
+    "nhg_advies": "Uitzondering: zwangere met asymptomatische bacteriurie WEL behandelen. Kweek afnemen voor resistentiebepaling. Amoxicilline of nitrofurantoïne (niet in derde trimester).",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-EC-005",
+    "type_valkuil": "pyelonefritis_niet_alleen_cystitis",
+    "uitleg_valkuil": "Koorts + flankpijn + positief urineonderzoek = pyelonefritis, niet alleen cystitis. Rule-based die alleen kijkt naar nitriet/leukotest mist de ernst en geeft verkeerd antibioticaadvies (nitrofurantoïne niet geschikt bij pyelonefritis).",
+    "patiënt": {
+      "leeftijd": 35,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": true,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "troebel",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1022,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 45,
+      "erythrocyten_per_hpf": 12,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "pyelonefritis",
+    "nhg_advies": "Pyelonefritis: kweek afnemen, ciprofloxacine of co-amoxiclav. Nitrofurantoïne NIET geschikt (bereikt onvoldoende weefselspiegels). Overweeg ziekenhuisopname.",
+    "kweek_geïndiceerd": true
   }
 ]
