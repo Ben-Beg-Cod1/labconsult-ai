@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-05-16T13:14:16.309538",
+  "model": "qwen2.5:7b",
+  "experiments": [
+    {
+      "type": "zero_shot",
+      "input": "Kalium: 2.9 mmol/L, Natrium: 141 mmol/L, Creatinine: 88 µmol/L, patiënt gebruikt diuretica",
+      "output": "Op basis van de gegeven biologische waardeheden en het gebruik van diuretica bij de patiënt, kunnen we een aantal opmerkingen maken:\n\n1. Kalium (2.9 mmol/L):\n   - Deze waarde is lager dan de normale bereik (3.5-5.0 mmol/L).\n   - Het kan aangeven dat de diuretica invloed hebben op kalium-waarden.\n   - Er is een risicovolle situatie mogelijk, aangezien lage kaliumwaarden (hypokalemië) gevaarlijk kunnen zijn.\n\n2. Natrium (141 mmol/L):\n   - Dit is binnen de normale bereikswaarden voor natrium (135-145 mmol/L).\n   - De huidige waarde leek stabiel en ziet eruit als een goed gehalte.\n\n3. Creatinine (88 µmol/L):\n   - Deze waarde is lager dan de normale bereikswaarden voor creatinine (80-175 µmol/L in het algemeen).\n   - Het kan aangeven dat de nierfunctie mogelijk beter is dan gemiddeld, of dat er een correctiefactor nodig is.\n\nOverwegingen:\n- Diuretica kunnen invloed hebben op kaliumwaarden. Er zou worden gecontroleerd op hypokalemië.\n- Creatininereductie kan aangeven dat nierfunctie beter is dan verwacht, maar zorg voor juiste interpretatie.\n- Het spoor naar de oorzaak van diuretica gebruik moet worden nagegaan.\n\nHet is belangrijk om deze waarden te interpreteren in combinatie met medische historie, symptomen en andere laboratoriewaardeheden. Zeker als er zorgen over hypokalemië of andere mogelijke effecten van de diuretica bestaan."
+    },
+    {
+      "type": "few_shot",
+      "input": "Kalium: 2.9 mmol/L, Natrium: 141 mmol/L, Creatinine: 88 µmol/L, patiënt gebruikt diuretica",
+      "output": "- **Interpretatie:** Verlaagd kaliumniveau (hypokalemië) in combinatie met normaal natriumniveau en normale creatinineniveaus, bij een patiënt die diuretica gebruikt. Dit kan aanwijzen naar hyponatraemisch wateroverschot, wat vaak geassocieerd is met hypokaliëmie bij gebruik van loopdiuretica.\n- **Waarschijnlijke diagnose:** Hyponatraemische hypokalemië door diuretika\n- **Beleid:** Beoordelen en eventueel aanpassen medicatie, controle kaliumniveau na korrigeringsbehandeling, vochtinzuiverheid controleren, mogelijke inwerking van loopdiuretica beoordelen."
+    }
+  ]
+}
