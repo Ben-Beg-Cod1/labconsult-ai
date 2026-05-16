@@ -1,0 +1,3502 @@
+[
+  {
+    "case_id": "UWI-053",
+    "patiënt": {
+      "leeftijd": 65,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "helder",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1009,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-080",
+    "patiënt": {
+      "leeftijd": 16,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "licht troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1008,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-001",
+    "patiënt": {
+      "leeftijd": 5,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": true
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 5
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1006,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 77,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-096",
+    "patiënt": {
+      "leeftijd": 19,
+      "geslacht": "vrouw",
+      "zwanger": true,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 1
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "licht troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1023,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "geen",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-093",
+    "patiënt": {
+      "leeftijd": 12,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "licht troebel",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1013,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-054",
+    "patiënt": {
+      "leeftijd": 55,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "licht troebel",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1017,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 46,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-007",
+    "patiënt": {
+      "leeftijd": 76,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 4
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "troebel",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1009,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 19,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-059",
+    "patiënt": {
+      "leeftijd": 31,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "licht troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1030,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 2,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-061",
+    "patiënt": {
+      "leeftijd": 79,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "helder",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1016,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-069",
+    "patiënt": {
+      "leeftijd": 47,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "helder",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1007,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 0,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-031",
+    "patiënt": {
+      "leeftijd": 59,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "sterk troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1016,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 74,
+      "erythrocyten_per_hpf": 36,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_gecompliceerd",
+    "nhg_advies": "Kweek met resistentiebepaling. Antibiotica op geleide kweek. Overweeg verwijzing.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-092",
+    "patiënt": {
+      "leeftijd": 51,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "licht troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1028,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 2,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-039",
+    "patiënt": {
+      "leeftijd": 61,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": false,
+      "klachten_duur_dagen": 4
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1017,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 19,
+      "erythrocyten_per_hpf": 22,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "pyelonefritis",
+    "nhg_advies": "Kweek afnemen. Ciprofloxacine of co-amoxiclav. Overweeg ziekenhuisopname bij ernstig zieke patiënt.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-075",
+    "patiënt": {
+      "leeftijd": 25,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "helder",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1021,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "geen",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-022",
+    "patiënt": {
+      "leeftijd": 33,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1006,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 7,
+      "bacteriën_sediment": "geen",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-045",
+    "patiënt": {
+      "leeftijd": 12,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": true
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 5
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1027,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 36,
+      "erythrocyten_per_hpf": 12,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "asymptomatische_bacteriurie",
+    "nhg_advies": "Geen behandeling geïndiceerd (tenzij zwanger of pre-operatief).",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-070",
+    "patiënt": {
+      "leeftijd": 80,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "helder",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1022,
+      "glucose": "+",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 0,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-025",
+    "patiënt": {
+      "leeftijd": 46,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1006,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 73,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-027",
+    "patiënt": {
+      "leeftijd": 50,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 4
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "sterk troebel",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1016,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 78,
+      "erythrocyten_per_hpf": 5,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_gecompliceerd",
+    "nhg_advies": "Kweek met resistentiebepaling. Antibiotica op geleide kweek. Overweeg verwijzing.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-014",
+    "patiënt": {
+      "leeftijd": 15,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": true
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 1
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1025,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 43,
+      "erythrocyten_per_hpf": 14,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-017",
+    "patiënt": {
+      "leeftijd": 76,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "sterk troebel",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1012,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 41,
+      "erythrocyten_per_hpf": 6,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-049",
+    "patiënt": {
+      "leeftijd": 57,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "sterk troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1024,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 10,
+      "erythrocyten_per_hpf": 8,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "asymptomatische_bacteriurie",
+    "nhg_advies": "Geen behandeling geïndiceerd (tenzij zwanger of pre-operatief).",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-038",
+    "patiënt": {
+      "leeftijd": 10,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": true,
+      "klachten_duur_dagen": 5
+    },
+    "urineonderzoek": {
+      "kleur": "roodachtig",
+      "transparantie": "sterk troebel",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1009,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 21,
+      "erythrocyten_per_hpf": 32,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "pyelonefritis",
+    "nhg_advies": "Kweek afnemen. Ciprofloxacine of co-amoxiclav. Overweeg ziekenhuisopname bij ernstig zieke patiënt.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-098",
+    "patiënt": {
+      "leeftijd": 57,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "helder",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1018,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-030",
+    "patiënt": {
+      "leeftijd": 68,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "sterk troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1027,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 75,
+      "erythrocyten_per_hpf": 40,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_gecompliceerd",
+    "nhg_advies": "Kweek met resistentiebepaling. Antibiotica op geleide kweek. Overweeg verwijzing.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-003",
+    "patiënt": {
+      "leeftijd": 47,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 6
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "troebel",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1012,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 76,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-086",
+    "patiënt": {
+      "leeftijd": 44,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "helder",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1022,
+      "glucose": "+",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-076",
+    "patiënt": {
+      "leeftijd": 60,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "licht troebel",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1024,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "geen",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-065",
+    "patiënt": {
+      "leeftijd": 6,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "helder",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1029,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-077",
+    "patiënt": {
+      "leeftijd": 64,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "licht troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1012,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-040",
+    "patiënt": {
+      "leeftijd": 25,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": true,
+      "klachten_duur_dagen": 6
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1011,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 43,
+      "erythrocyten_per_hpf": 40,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "pyelonefritis",
+    "nhg_advies": "Kweek afnemen. Ciprofloxacine of co-amoxiclav. Overweeg ziekenhuisopname bij ernstig zieke patiënt.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-056",
+    "patiënt": {
+      "leeftijd": 14,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "licht troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1025,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "geen",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-042",
+    "patiënt": {
+      "leeftijd": 36,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": true,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "troebel",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1017,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 76,
+      "erythrocyten_per_hpf": 16,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "pyelonefritis",
+    "nhg_advies": "Kweek afnemen. Ciprofloxacine of co-amoxiclav. Overweeg ziekenhuisopname bij ernstig zieke patiënt.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-002",
+    "patiënt": {
+      "leeftijd": 85,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 4
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "troebel",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1010,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 28,
+      "erythrocyten_per_hpf": 13,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-082",
+    "patiënt": {
+      "leeftijd": 27,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "licht troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1029,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-066",
+    "patiënt": {
+      "leeftijd": 64,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "licht troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1014,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-009",
+    "patiënt": {
+      "leeftijd": 2,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 7
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "sterk troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1021,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 72,
+      "erythrocyten_per_hpf": 5,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-013",
+    "patiënt": {
+      "leeftijd": 75,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 4
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1027,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 63,
+      "erythrocyten_per_hpf": 11,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-008",
+    "patiënt": {
+      "leeftijd": 78,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "sterk troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1021,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 9,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-081",
+    "patiënt": {
+      "leeftijd": 41,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 1
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "helder",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1023,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 0,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-033",
+    "patiënt": {
+      "leeftijd": 63,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "sterk troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1010,
+      "glucose": "+",
+      "proteïne": "+++",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 61,
+      "erythrocyten_per_hpf": 39,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_gecompliceerd",
+    "nhg_advies": "Kweek met resistentiebepaling. Antibiotica op geleide kweek. Overweeg verwijzing.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-079",
+    "patiënt": {
+      "leeftijd": 66,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "licht troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1013,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-062",
+    "patiënt": {
+      "leeftijd": 55,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "helder",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1029,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-085",
+    "patiënt": {
+      "leeftijd": 12,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "helder",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1015,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-011",
+    "patiënt": {
+      "leeftijd": 70,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 1
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "sterk troebel",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1013,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 62,
+      "erythrocyten_per_hpf": 6,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-097",
+    "patiënt": {
+      "leeftijd": 27,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "licht troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1014,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "geen",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-019",
+    "patiënt": {
+      "leeftijd": 80,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 5
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "sterk troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1024,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 21,
+      "erythrocyten_per_hpf": 4,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-035",
+    "patiënt": {
+      "leeftijd": 29,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1011,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 18,
+      "erythrocyten_per_hpf": 35,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_gecompliceerd",
+    "nhg_advies": "Kweek met resistentiebepaling. Antibiotica op geleide kweek. Overweeg verwijzing.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-083",
+    "patiënt": {
+      "leeftijd": 58,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "helder",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1006,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 2,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-099",
+    "patiënt": {
+      "leeftijd": 71,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "licht troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1006,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-060",
+    "patiënt": {
+      "leeftijd": 27,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "licht troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1005,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 2,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-023",
+    "patiënt": {
+      "leeftijd": 15,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": true
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "sterk troebel",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1006,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 66,
+      "erythrocyten_per_hpf": 11,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-043",
+    "patiënt": {
+      "leeftijd": 48,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": true
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": true,
+      "klachten_duur_dagen": 5
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "troebel",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1027,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "positief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 23,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "pyelonefritis",
+    "nhg_advies": "Kweek afnemen. Ciprofloxacine of co-amoxiclav. Overweeg ziekenhuisopname bij ernstig zieke patiënt.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-021",
+    "patiënt": {
+      "leeftijd": 22,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1008,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 27,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-055",
+    "patiënt": {
+      "leeftijd": 26,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 1
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "helder",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1025,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 2,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-044",
+    "patiënt": {
+      "leeftijd": 62,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 7
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1007,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 69,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "asymptomatische_bacteriurie",
+    "nhg_advies": "Geen behandeling geïndiceerd (tenzij zwanger of pre-operatief).",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-052",
+    "patiënt": {
+      "leeftijd": 72,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "licht troebel",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1015,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 38,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-006",
+    "patiënt": {
+      "leeftijd": 10,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 6
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "sterk troebel",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1012,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 71,
+      "erythrocyten_per_hpf": 12,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-088",
+    "patiënt": {
+      "leeftijd": 30,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "helder",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1014,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-046",
+    "patiënt": {
+      "leeftijd": 28,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": true
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "troebel",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1020,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 28,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "asymptomatische_bacteriurie",
+    "nhg_advies": "Geen behandeling geïndiceerd (tenzij zwanger of pre-operatief).",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-071",
+    "patiënt": {
+      "leeftijd": 10,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "helder",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1025,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-012",
+    "patiënt": {
+      "leeftijd": 30,
+      "geslacht": "vrouw",
+      "zwanger": true,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "sterk troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1013,
+      "glucose": "++",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 15,
+      "erythrocyten_per_hpf": 7,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-029",
+    "patiënt": {
+      "leeftijd": 80,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": true,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "sterk troebel",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1021,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 57,
+      "erythrocyten_per_hpf": 36,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_gecompliceerd",
+    "nhg_advies": "Kweek met resistentiebepaling. Antibiotica op geleide kweek. Overweeg verwijzing.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-091",
+    "patiënt": {
+      "leeftijd": 12,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "licht troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1028,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 63,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-089",
+    "patiënt": {
+      "leeftijd": 54,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "licht troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1025,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-090",
+    "patiënt": {
+      "leeftijd": 50,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "helder",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1017,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-026",
+    "patiënt": {
+      "leeftijd": 10,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "troebel",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1015,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 23,
+      "erythrocyten_per_hpf": 24,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_gecompliceerd",
+    "nhg_advies": "Kweek met resistentiebepaling. Antibiotica op geleide kweek. Overweeg verwijzing.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-063",
+    "patiënt": {
+      "leeftijd": 20,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "licht troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1012,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-037",
+    "patiënt": {
+      "leeftijd": 76,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": false,
+      "klachten_duur_dagen": 6
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "sterk troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1022,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 17,
+      "erythrocyten_per_hpf": 20,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "pyelonefritis",
+    "nhg_advies": "Kweek afnemen. Ciprofloxacine of co-amoxiclav. Overweeg ziekenhuisopname bij ernstig zieke patiënt.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-028",
+    "patiënt": {
+      "leeftijd": 67,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "troebel",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1025,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 50,
+      "erythrocyten_per_hpf": 10,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_gecompliceerd",
+    "nhg_advies": "Kweek met resistentiebepaling. Antibiotica op geleide kweek. Overweeg verwijzing.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-095",
+    "patiënt": {
+      "leeftijd": 69,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "helder",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1005,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "positief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 0,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-100",
+    "patiënt": {
+      "leeftijd": 11,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "licht troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1008,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-034",
+    "patiënt": {
+      "leeftijd": 23,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 4
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "sterk troebel",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1027,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 58,
+      "erythrocyten_per_hpf": 6,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_gecompliceerd",
+    "nhg_advies": "Kweek met resistentiebepaling. Antibiotica op geleide kweek. Overweeg verwijzing.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-016",
+    "patiënt": {
+      "leeftijd": 9,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 1
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "sterk troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1010,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 69,
+      "erythrocyten_per_hpf": 5,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-072",
+    "patiënt": {
+      "leeftijd": 31,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "helder",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1011,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 0,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-050",
+    "patiënt": {
+      "leeftijd": 76,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 4
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1022,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 49,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "asymptomatische_bacteriurie",
+    "nhg_advies": "Geen behandeling geïndiceerd (tenzij zwanger of pre-operatief).",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-067",
+    "patiënt": {
+      "leeftijd": 37,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "helder",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1025,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "geen",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-064",
+    "patiënt": {
+      "leeftijd": 83,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 1
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "helder",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1026,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 79,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "geen",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-024",
+    "patiënt": {
+      "leeftijd": 37,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 5
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "troebel",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1029,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 11,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-004",
+    "patiënt": {
+      "leeftijd": 7,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "sterk troebel",
+      "pH": 7.5,
+      "soortelijk_gewicht": 1026,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 20,
+      "erythrocyten_per_hpf": 12,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-015",
+    "patiënt": {
+      "leeftijd": 23,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1016,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 8,
+      "erythrocyten_per_hpf": 12,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-032",
+    "patiënt": {
+      "leeftijd": 71,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": false,
+      "klachten_duur_dagen": 7
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1010,
+      "glucose": "+",
+      "proteïne": "+++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 50,
+      "erythrocyten_per_hpf": 39,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_gecompliceerd",
+    "nhg_advies": "Kweek met resistentiebepaling. Antibiotica op geleide kweek. Overweeg verwijzing.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-036",
+    "patiënt": {
+      "leeftijd": 4,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": true
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": true,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "bruin",
+      "transparantie": "troebel",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1020,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "positief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 3,
+      "erythrocyten_per_hpf": 21,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "pyelonefritis",
+    "nhg_advies": "Kweek afnemen. Ciprofloxacine of co-amoxiclav. Overweeg ziekenhuisopname bij ernstig zieke patiënt.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-084",
+    "patiënt": {
+      "leeftijd": 61,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 0
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "licht troebel",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1017,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 0,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-041",
+    "patiënt": {
+      "leeftijd": 84,
+      "geslacht": "man",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": true,
+      "flankpijn": true,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "sterk troebel",
+      "pH": 6.5,
+      "soortelijk_gewicht": 1019,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 39,
+      "erythrocyten_per_hpf": 24,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "pyelonefritis",
+    "nhg_advies": "Kweek afnemen. Ciprofloxacine of co-amoxiclav. Overweeg ziekenhuisopname bij ernstig zieke patiënt.",
+    "kweek_geïndiceerd": true
+  },
+  {
+    "case_id": "UWI-051",
+    "patiënt": {
+      "leeftijd": 42,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 1
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "helder",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1018,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 0,
+      "erythrocyten_per_hpf": 3,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-047",
+    "patiënt": {
+      "leeftijd": 60,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": true
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 1
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "troebel",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1011,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "positief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 6,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "asymptomatische_bacteriurie",
+    "nhg_advies": "Geen behandeling geïndiceerd (tenzij zwanger of pre-operatief).",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-068",
+    "patiënt": {
+      "leeftijd": 77,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 1
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "helder",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1011,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 0,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "geen",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-018",
+    "patiënt": {
+      "leeftijd": 3,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 4
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1027,
+      "glucose": "negatief",
+      "proteïne": "++",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 35,
+      "erythrocyten_per_hpf": 8,
+      "bacteriën_sediment": "matig",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-074",
+    "patiënt": {
+      "leeftijd": 15,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "helder",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1012,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 0,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-010",
+    "patiënt": {
+      "leeftijd": 71,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 7
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "sterk troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1011,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 22,
+      "erythrocyten_per_hpf": 11,
+      "bacteriën_sediment": "veel",
+      "dipslide": "≥10^4 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-057",
+    "patiënt": {
+      "leeftijd": 70,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "helder",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1024,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 0,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-094",
+    "patiënt": {
+      "leeftijd": 65,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": true
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "helder",
+      "pH": 7.0,
+      "soortelijk_gewicht": 1014,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-048",
+    "patiënt": {
+      "leeftijd": 41,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 5
+    },
+    "urineonderzoek": {
+      "kleur": "amber",
+      "transparantie": "troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1018,
+      "glucose": "negatief",
+      "proteïne": "+++",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 67,
+      "erythrocyten_per_hpf": 9,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "asymptomatische_bacteriurie",
+    "nhg_advies": "Geen behandeling geïndiceerd (tenzij zwanger of pre-operatief).",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-058",
+    "patiënt": {
+      "leeftijd": 40,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "troebel geel",
+      "transparantie": "helder",
+      "pH": 5.5,
+      "soortelijk_gewicht": 1009,
+      "glucose": "++",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 1,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "<10^3 kve/ml"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-087",
+    "patiënt": {
+      "leeftijd": 73,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "licht troebel",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1014,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 4,
+      "erythrocyten_per_hpf": 0,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-020",
+    "patiënt": {
+      "leeftijd": 45,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 6
+    },
+    "urineonderzoek": {
+      "kleur": "donkergeel",
+      "transparantie": "troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1012,
+      "glucose": "negatief",
+      "proteïne": "negatief",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 14,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-078",
+    "patiënt": {
+      "leeftijd": 52,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 3
+    },
+    "urineonderzoek": {
+      "kleur": "geel",
+      "transparantie": "helder",
+      "pH": 5.0,
+      "soortelijk_gewicht": 1005,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "negatief",
+      "leukocyten_per_hpf": 1,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "sporadisch",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-005",
+    "patiënt": {
+      "leeftijd": 84,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": true,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": true,
+      "toegenomen_mictiefrequentie": true,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 4
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "sterk troebel",
+      "pH": 8.0,
+      "soortelijk_gewicht": 1024,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "positief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 42,
+      "erythrocyten_per_hpf": 7,
+      "bacteriën_sediment": "massaal",
+      "dipslide": "≥10^5 kve/ml"
+    },
+    "nhg_diagnose": "cystitis_ongecompliceerd",
+    "nhg_advies": "Nitrofurantoïne 5 dagen of trimethoprim 7 dagen. Voldoende drinken.",
+    "kweek_geïndiceerd": false
+  },
+  {
+    "case_id": "UWI-073",
+    "patiënt": {
+      "leeftijd": 13,
+      "geslacht": "vrouw",
+      "zwanger": false,
+      "diabetes_mellitus": false,
+      "verblijfskatheter": false,
+      "recidiverende_uwi": false
+    },
+    "klachten": {
+      "dysurie": false,
+      "toegenomen_mictiefrequentie": false,
+      "koorts": false,
+      "flankpijn": false,
+      "klachten_duur_dagen": 2
+    },
+    "urineonderzoek": {
+      "kleur": "lichtgeel",
+      "transparantie": "licht troebel",
+      "pH": 6.0,
+      "soortelijk_gewicht": 1027,
+      "glucose": "negatief",
+      "proteïne": "+",
+      "nitriet": "negatief",
+      "leukotest": "positief",
+      "leukocyten_per_hpf": 15,
+      "erythrocyten_per_hpf": 2,
+      "bacteriën_sediment": "geen",
+      "dipslide": "negatief"
+    },
+    "nhg_diagnose": "geen_uwi",
+    "nhg_advies": "Geen aanwijzingen voor urineweginfectie. Overweeg alternatieve diagnose.",
+    "kweek_geïndiceerd": false
+  }
+]
